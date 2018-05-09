@@ -1,1 +1,1 @@
-# GeorgiosKarakyklas.github.io
+# GeorgeKarakyklas.github.io

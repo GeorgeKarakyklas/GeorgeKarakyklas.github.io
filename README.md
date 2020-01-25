@@ -1,1 +1,1 @@
-# This is my attempt to a simple personal website
+A simple website I made to showcase my Web Development skills and market myself in the future.
